@@ -1,9 +1,9 @@
-firstNumber = (8);
-secondNumber =(10);
+firstNumber = 8;
+secondNumber = 10;
 
-function suma(firstNumber, secondNumber) {
+function suma(num1, num2) {
 
-    let result = firstNumber + secondNumber;
+    let result = num1 + num2;
     return result;
 
 }
