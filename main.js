@@ -1,5 +1,5 @@
-firstNumber = 8;
-secondNumber = 10;
+let firstNumber = 8;
+let secondNumber = 10;
 
 function suma(num1, num2) {
 
